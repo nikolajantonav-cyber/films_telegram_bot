@@ -1,0 +1,178 @@
+[
+    {
+        "name": "Harry Potter and the Philosopher's Stone",
+        "description": "Harry Potter and the Philosopher's Stone (also known as Harry Potter and the Sorcerer's Stone in the United States) is a 2001 fantasy film directed by Chris Columbus and produced by David Heyman. The film stars Daniel Radcliffe as Harry Potter, with Rupert Grint and Emma Watson.",
+        "rating": 7.1,
+        "genre": "Fantasy",
+        "actors": ["Daniel Radcliffe", "Rupert Grint", "Emma Watson"],
+        "poster": "https://upload.wikimedia.org/wikipedia/en/7/7a/Harry_Potter_and_the_Philosopher%27s_Stone_banner.jpg"
+    },
+    {
+        "name": "Garfield: The Movie",
+        "description": "Garfield: The Movie is a 2004 American comedy film based on Jim Davis' comic strip Garfield. Directed by Peter Hewitt and starring Bill Murray as Garfield's voice.",
+        "rating": 3.5,
+        "genre": "Comedy",
+        "actors": ["Breckin Meyer", "Jennifer Love Hewitt", "Bill Murray"],
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Garfield_ver6.jpg/220px-Garfield_ver6.jpg"
+    },
+    {
+        "name": "Inception",
+        "description": "Inception is a 2010 science fiction action film written and directed by Christopher Nolan. It stars Leonardo DiCaprio as a professional thief who steals information by infiltrating the subconscious.",
+        "rating": 8.8,
+        "genre": "Sci-Fi",
+        "actors": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Elliot Page"],
+        "poster": "https://upload.wikimedia.org/wikipedia/en/7/7f/Inception_ver3.jpg"
+    },
+    {
+        "name": "The Dark Knight",
+        "description": "The Dark Knight is a 2008 superhero film directed by Christopher Nolan, featuring Christian Bale as Batman and Heath Ledger as the Joker.",
+        "rating": 9.0,
+        "genre": "Action",
+        "actors": ["Christian Bale", "Heath Ledger", "Aaron Eckhart", "Gary Oldman"],
+        "poster": "https://upload.wikimedia.org/wikipedia/en/8/8a/Dark_Knight.jpg"
+    },
+    {
+        "name": "Avatar",
+        "description": "Avatar is a 2009 epic science fiction film directed by James Cameron. It stars Sam Worthington, Zoe Saldana, and Sigourney Weaver.",
+        "rating": 7.8,
+        "genre": "Sci-Fi",
+        "actors": ["Sam Worthington", "Zoe Saldana", "Sigourney Weaver"],
+        "poster": "https://upload.wikimedia.org/wikipedia/en/b/b0/Avatar-Teaser-Poster.jpg"
+    },
+    {
+        "name": "Titanic",
+        "description": "Titanic is a 1997 epic romance and disaster film directed by James Cameron. It stars Leonardo DiCaprio and Kate Winslet.",
+        "rating": 7.9,
+        "genre": "Drama",
+        "actors": ["Leonardo DiCaprio", "Kate Winslet"],
+        "poster": "https://upload.wikimedia.org/wikipedia/en/2/22/Titanic_poster.jpg"
+    },
+    {
+        "name": "Interstellar",
+        "description": "Interstellar is a 2014 epic science fiction film directed by Christopher Nolan, starring Matthew McConaughey and Anne Hathaway.",
+        "rating": 8.6,
+        "genre": "Sci-Fi",
+        "actors": ["Matthew McConaughey", "Anne Hathaway", "Jessica Chastain"],
+        "poster": "https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg"
+    },
+    {
+        "name": "The Matrix",
+        "description": "The Matrix is a 1999 science fiction action film written and directed by the Wachowskis. It stars Keanu Reeves, Laurence Fishburne, and Carrie-Anne Moss.",
+        "rating": 8.7,
+        "genre": "Action",
+        "actors": ["Keanu Reeves", "Laurence Fishburne", "Carrie-Anne Moss"],
+        "poster": "https://upload.wikimedia.org/wikipedia/en/c/c1/The_Matrix_Poster.jpg"
+    },
+    {
+        "name": "The Lord of the Rings: The Fellowship of the Ring",
+        "description": "The Fellowship of the Ring is a 2001 epic fantasy adventure film directed by Peter Jackson, based on the novel by J.R.R. Tolkien.",
+        "rating": 8.8,
+        "genre": "Fantasy",
+        "actors": ["Elijah Wood", "Ian McKellen", "Viggo Mortensen"],
+        "poster": "https://upload.wikimedia.org/wikipedia/en/8/87/Ringstrilogyposter.jpg"
+    },
+    {
+        "name": "The Lion King",
+        "description": "The Lion King is a 1994 American animated musical film produced by Walt Disney Feature Animation. It tells the story of Simba, a lion prince.",
+        "rating": 8.5,
+        "genre": "Animation",
+        "actors": ["Matthew Broderick", "James Earl Jones"],
+        "poster": "https://upload.wikimedia.org/wikipedia/en/3/3d/The_Lion_King_poster.jpg"
+    },
+    {
+        "name": "Forrest Gump",
+        "description": "Forrest Gump is a 1994 American comedy-drama film directed by Robert Zemeckis and starring Tom Hanks as the title character.",
+        "rating": 8.8,
+        "genre": "Drama",
+        "actors": ["Tom Hanks", "Robin Wright"],
+        "poster": "https://upload.wikimedia.org/wikipedia/en/6/67/Forrest_Gump_poster.jpg"
+    },
+    {
+        "name": "Shrek",
+        "description": "Shrek is a 2001 American computer-animated comedy film loosely based on William Steig's 1990 picture book.",
+        "rating": 7.9,
+        "genre": "Animation",
+        "actors": ["Mike Myers", "Eddie Murphy", "Cameron Diaz"],
+        "poster": "https://upload.wikimedia.org/wikipedia/en/3/39/Shrek.jpg"
+    },
+    {
+        "name": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "description": "A 2003 American fantasy adventure film directed by Gore Verbinski and produced by Jerry Bruckheimer, starring Johnny Depp.",
+        "rating": 8.0,
+        "genre": "Adventure",
+        "actors": ["Johnny Depp", "Orlando Bloom", "Keira Knightley"],
+        "poster": "https://upload.wikimedia.org/wikipedia/en/8/89/Pirates_of_the_Caribbean_-_The_Curse_of_the_Black_Pearl.png"
+    },
+    {
+        "name": "Spider-Man: No Way Home",
+        "description": "Spider-Man: No Way Home is a 2021 superhero film directed by Jon Watts, starring Tom Holland and Benedict Cumberbatch.",
+        "rating": 8.3,
+        "genre": "Action",
+        "actors": ["Tom Holland", "Zendaya", "Benedict Cumberbatch"],
+        "poster": "https://upload.wikimedia.org/wikipedia/en/0/00/Spider-Man_No_Way_Home_poster.jpg"
+    },
+    {
+        "name": "Joker",
+        "description": "Joker is a 2019 American psychological thriller film directed by Todd Phillips and starring Joaquin Phoenix.",
+        "rating": 8.4,
+        "genre": "Thriller",
+        "actors": ["Joaquin Phoenix", "Robert De Niro"],
+        "poster": "https://upload.wikimedia.org/wikipedia/en/e/e1/Joker_%282019_film%29_poster.jpg"
+    },
+    {
+        "name": "Frozen",
+        "description": "Frozen is a 2013 American 3D computer-animated musical fantasy film produced by Walt Disney Animation Studios.",
+        "rating": 7.4,
+        "genre": "Animation",
+        "actors": ["Kristen Bell", "Idina Menzel"],
+        "poster": "https://upload.wikimedia.org/wikipedia/en/0/05/Frozen_%282013_film%29_poster.jpg"
+    },
+    {
+        "name": "Toy Story",
+        "description": "Toy Story is a 1995 American computer-animated comedy film produced by Pixar and released by Walt Disney Pictures.",
+        "rating": 8.3,
+        "genre": "Animation",
+        "actors": ["Tom Hanks", "Tim Allen"],
+        "poster": "https://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg"
+    },
+    {
+        "name": "The Godfather",
+        "description": "The Godfather is a 1972 American crime film directed by Francis Ford Coppola, based on Mario Puzo's best-selling novel.",
+        "rating": 9.2,
+        "genre": "Crime",
+        "actors": ["Marlon Brando", "Al Pacino"],
+        "poster": "https://upload.wikimedia.org/wikipedia/en/1/1c/Godfather_ver1.jpg"
+    },
+    {
+        "name": "Pulp Fiction",
+        "description": "Pulp Fiction is a 1994 American crime film written and directed by Quentin Tarantino. It stars John Travolta, Samuel L. Jackson, and Uma Thurman.",
+        "rating": 8.9,
+        "genre": "Crime",
+        "actors": ["John Travolta", "Samuel L. Jackson", "Uma Thurman"],
+        "poster": "https://upload.wikimedia.org/wikipedia/en/8/82/Pulp_Fiction_cover.jpg"
+    },
+    {
+        "name": "Gladiator",
+        "description": "Gladiator is a 2000 epic historical drama film directed by Ridley Scott and starring Russell Crowe as a betrayed Roman general.",
+        "rating": 8.5,
+        "genre": "Action",
+        "actors": ["Russell Crowe", "Joaquin Phoenix"],
+        "poster": "https://upload.wikimedia.org/wikipedia/en/8/8d/Gladiator_ver1.jpg"
+    },
+    {
+        "name": "The Shawshank Redemption",
+        "description": "The Shawshank Redemption is a 1994 American drama film written and directed by Frank Darabont, starring Tim Robbins and Morgan Freeman.",
+        "rating": 9.3,
+        "genre": "Drama",
+        "actors": ["Tim Robbins", "Morgan Freeman"],
+        "poster": "https://upload.wikimedia.org/wikipedia/en/8/81/ShawshankRedemptionMoviePoster.jpg"
+    },
+    {
+        "name": "The Avengers",
+        "description": "The Avengers is a 2012 American superhero film produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures.",
+        "rating": 8.0,
+        "genre": "Action",
+        "actors": ["Robert Downey Jr.", "Chris Evans", "Scarlett Johansson"],
+        "poster": "https://upload.wikimedia.org/wikipedia/en/f/f9/TheAvengers2012Poster.jpg"
+    }
+]
